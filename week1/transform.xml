@@ -1,0 +1,18 @@
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0">
+	<xsl:template match="/">
+		<html>
+			<head>
+				<title>@TODO: TITLE</title>
+			</head>
+			<body>
+				<div>
+					<xsl:for-each select="activities/activity">
+						<div>
+							<xsl:value-of select="description"/>
+						</div>
+					</xsl:for-each>
+				</div>
+			</body>
+		</html>
+	</xsl:template>
+</xsl:stylesheet>
