@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<activities>
+	<activity>
+		<description>Revision of Nonaut Sub in Cerv Disc, Extern Approach</description>
+		<repetition>1</repetition>
+	</activity>
+	<activity>
+		<description>Transfer Sciatic Nerve to Sciatic Nerve, Perc Endo Approach</description>
+		<repetition>1</repetition>
+	</activity>
+	<activity>
+		<description>Removal of Synth Sub from Trunk Subcu/Fascia, Perc Approach</description>
+		<repetition>4</repetition>
+	</activity>
+	<activity>
+		<description>Drainage of Right Hand Vein, Open Approach, Diagnostic</description>
+		<repetition>5</repetition>
+	</activity>
+	<activity>
+		<description>Dilation of Left Kidney Pelvis, Open Approach</description>
+		<repetition>6</repetition>
+	</activity>
+	<activity>
+		<description>Revision of Int Fix in R Tibia, Open Approach</description>
+		<repetition>6</repetition>
+	</activity>
+	<activity>
+		<description>Repair Right Metacarpal, External Approach</description>
+		<repetition>2</repetition>
+	</activity>
+	<activity>
+		<description>Drainage of Large Intestine, Percutaneous Approach</description>
+		<repetition>4</repetition>
+	</activity>
+	<activity>
+		<description>Fluoroscopy of Cervical Facet Joint(s) using Other Contrast</description>
+		<repetition>3</repetition>
+	</activity>
+	<activity>
+		<description>Introduction of Oth Anti-infect into Nose, Perc Approach</description>
+		<repetition>6</repetition>
+	</activity>
+</activities>
